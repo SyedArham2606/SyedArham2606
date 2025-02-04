@@ -1,4 +1,6 @@
-# 💫 About Me:Hi, I'm Syed Arham 👋!
+# I'm Syed Arham 👋!
+
+# 💫 About Me:
 I'm a passionate Frontend Developer with a strong focus on creating intuitive and visually appealing user experiences. Currently, I'm diving deeper into web technologies like HTML, CSS, JavaScript, and React to build responsive, user-friendly websites and applications.
 Feel free to check out my projects, and connect with me if you'd like to chat about tech!
 
