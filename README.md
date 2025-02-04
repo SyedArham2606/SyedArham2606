@@ -1,6 +1,4 @@
-# I'm Syed Arham 👋!
-
-# 💫 About Me:
+# 💫 About Me: I'm Syed Arham 👋!
 I'm a passionate Frontend Developer with a strong focus on creating intuitive and visually appealing user experiences. Currently, I'm diving deeper into web technologies like HTML, CSS, JavaScript, and React to build responsive, user-friendly websites and applications.
 Feel free to check out my projects, and connect with me if you'd like to chat about tech!
 
@@ -14,6 +12,20 @@ Feel free to check out my projects, and connect with me if you'd like to chat ab
 ![](https://github-readme-stats.vercel.app/api?username=SyedArham2606&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SyedArham2606&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArham2606&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# My Graph 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
